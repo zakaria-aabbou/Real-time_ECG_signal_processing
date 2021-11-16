@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaouad\Desktop\ECGAUTH\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\Jaouad\Desktop\ECGAUTH\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_38ed88452c94773447d4e03d36f2f771f943103e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaouad\Desktop\ECGAUTH\app\libs\GraphView-3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e187192858ff7a5ff7864d6f6a754427e6cb3a87">
+        <dex dex="C:\Users\Jaouad\Desktop\ECGAUTH\app\build\intermediates\pre-dexed\debug\GraphView-3.0_588f00d7335a964868b4cde08d2f7f833484c6b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaouad\Desktop\ECGAUTH\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\Jaouad\Desktop\ECGAUTH\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_686716df2a252434f9ff8a135b0731a6c1ef0759.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaouad\Desktop\ECGAUTH\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\Jaouad\Desktop\ECGAUTH\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_a4fb069f482c3a403f49d5874ed0c8f566d81267.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaouad\Desktop\ECGAUTH\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Jaouad\Desktop\ECGAUTH\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_f6b20ef733f84e2024622000730483fa856f73b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaouad\Desktop\ECGAUTH\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Jaouad\Desktop\ECGAUTH\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_3668e3611a41300dcaaa8a4d94281e6b58d70a6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaouad\Desktop\ECGAUTH\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Jaouad\Desktop\ECGAUTH\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_95f7e52ea3e419d3d4780446c5e26a07ac0a0a4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaouad\Desktop\ECGAUTH\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Jaouad\Desktop\ECGAUTH\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_042b0b7383d54a43db98d66da47d09e189e7a043.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaouad\Desktop\ECGAUTH\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Jaouad\Desktop\ECGAUTH\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_8b077adaf85890958820e9878e223754335c2cd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaouad\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.2.0\4a5a82a027706397fff621b22fd6fa796e91d7c5\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\Jaouad\Desktop\ECGAUTH\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_a1b5eccf144e4df3fb71d8f17783c4f162796397.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaouad\Desktop\ECGAUTH\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Jaouad\Desktop\ECGAUTH\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_482b3e9cbe7b2df9f1a0ce7b5dc6431960944fa4.jar" />
+    </item>
+
+</items>
