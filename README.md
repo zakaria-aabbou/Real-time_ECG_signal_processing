@@ -16,7 +16,7 @@ https://drive.google.com/open?id=1kzzP-RALvlRvmB8zPgkq33IrEczyrNRD
 - An explanation of the Arduino code by KASSIMI AMINE:
 https://drive.google.com/file/d/1B9JakUpH3WZsntbKSBJWfcMvGFt3T_we/view
 
-- An explanation of the Android code by TAGNAMAS JAOUAD :
+- An explanation of the Android code by TAGNAMAS JAOUAD:
 https://drive.google.com/file/d/1D3B_ONWgry7eHcUrE36RLMtfFx62oOGf/view
 
 - Test video by AABBOU ZAKARIA:
