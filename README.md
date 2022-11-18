@@ -4,7 +4,7 @@
 - The project report:
 https://drive.google.com/open?id=1hEc-2d58N4PndVGwKGYofio26zXI42aE
 
-- A video on the ECG signal by AABBOU ZAKARIA:
+- A video about ECG signal by AABBOU ZAKARIA:
 https://drive.google.com/open?id=1ArT5ZemyrXOyhj5Z-CPnGIE0CEUJxor9
 
 - A video demonstrating how to operate sensors and equipment by KASSIMI AMINE:
